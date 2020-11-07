@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<stuents>
+    <student num="001">
+        <name>王青</name>
+        <age>22</age>
+    </student>
+    <student num="002">
+        <name>小明</name>
+        <age>18</age>
+    </student>
+    <student num="003">
+        <name>李丽</name>
+        <age>20</age>
+    </student>
+</stuents>
